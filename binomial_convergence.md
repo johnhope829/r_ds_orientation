@@ -23,7 +23,7 @@ See below for an example binomial distribution, with n = 1, and p = 0.5
 `)`
 
 
-Six other binomial variables were created, following `rbinom(size,n,o)` are created, with consistent *p* and *size* and varying *n*.
+Six other binomial variables were created, following `rbinom(size,n,p)` are created, with consistent *p* and *size* and varying *n*.
 
 See below for each of the distributions plotted into histograms:
 

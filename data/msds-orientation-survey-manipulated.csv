@@ -1,0 +1,68 @@
+"","Timestamp","uva_id","github_user","os","cpu_cycle","cpu_cores","ram","hard_drive","gpu","gpu_cores"
+"1",2024-06-13,"zy7ts","@alexyang790","MacOS",3.2,8,8,256,"Integrated with CPU",8
+"2",2024-06-13,"ASM2FE","ashley-m","Windows",3.8,16,16,1024,"Integrated",0
+"3",2024-06-13,"mtb2tgk","mattbeck1","MacOS",2.4,4,8,250,"Intel Iris Plus Graphics 655 1536 MB",0
+"4",2024-06-13,"fnj7ht","dishhhha","MacOS",3.228,10,16,512,"14",24
+"5",2024-06-13,"fyx6wf","fyx6wf","MacOS",3.9,4,8,128,"Intel Iris Plus Graphics 645",48
+"6",2024-06-13,"ggd8hvd","georgiagrace207","Windows",2.59,6,16,476,"Inter(R) UHD Graphics 630",896
+"7",2024-06-13,"qdy4zt","charbelmarche33","Windows",2.8,4,16,475,"Intel Iris Xe Graphics",1
+"8",2024-06-13,"bcp8dm","Dorukozar","MacOS",4.05,14,48,1000,"Apple-designed integrated graphics (8â€“40 core)",0
+"9",2024-06-13,"gnq2mr","jamessiegener","MacOS",3.2,8,16,512,"M1 Integrated 8 core GPU",0
+"10",2024-06-13,"mdp8gd","cvanniek","Windows",2.4,4,16,512,"HP Spectre x360 with Intel Core i7-1165G7",1536
+"11",2024-06-13,"js7jx","Jonathan-swap","MacOS",4.05,12,18,994,"18",0
+"12",2024-06-13,"qmy6cv","qmyhd","Windows",2.6,6,16,457,"NVIDIA GeForce GTX 1660 Ti",1536
+"13",2024-06-13,"qtf7du","vishugp","Windows",1.6,10,32,1000,"Intel(R) UHD Graphics + NVIDIA RTX A500",4
+"14",2024-06-13,"ljn5yms","lnap24","MacOS",1.4,4,16,251,"Intel Iris Plus Graphics 645",48
+"15",2024-06-13,"uqs3dq","uqs3dq","Windows",1,4,8,236,"Intel(R) UHD Graphics",0
+"16",2024-06-13,"eqa7yg","mermora97","Windows",1.3,10,16,512,"Intel Core i5",0
+"17",2024-06-13,"ft8xx","fturkistani","MacOS",3.2,8,8,256,"Apple M1",8
+"18",2024-06-13,"nps3cs","kurt-jr","MacOS",2,4,16,516,"Intel Iris Plus Graphics 1536 MB",0
+"19",2024-06-13,"fjp8ez","notjavo","MacOS",3.5,12,16,512,"M2 Pro",19
+"20",2024-06-13,"ttg6nx","tylergorecki","MacOS",4.05,16,18,994,"Apple M3 Pro",18
+"21",2024-06-13,"wgp3aq","wperitz","MacOS",2.6,6,16,1000,"AMD Radeon Pro 5300M 4 GB",1280
+"22",2024-06-13,"cpm6gh","AndrewCornfeld","Windows",1.7,10,16,512,"Intel(R) Iris(R) Xe Graphics",10
+"23",2024-06-13,"wbd3kw","riyapulla","Windows",1.8,2,8,121,"Intel HD Graphics 6000 1536 MB",2
+"24",2024-06-13,"kl2jmx",NA,"Windows",3.8,16,32,1000,"Integrated graphics",0
+"25",2024-06-13,"ajh5ae","ashleyjhuang","Windows",1,10,8,215,"Intel(R) Iris(R) Xe Graphics",10
+"26",2024-06-13,"jak5je","JKenzak","MacOS",1.1,2,8,251,"Intel Iris Plus Graphics 1536 MB",0
+"27",2024-06-13,"ksg8xy","hyounce","MacOS",3.2,8,8,494,"Apple M1",8
+"28",2024-06-13,"arg8qqv","argoel21","MacOS",3.2,8,16,494,"Apple M1 Pro",14
+"29",2024-06-13,"cwp5xyj","charlie-perez-35","Windows",1.3,4,8,512,"Intel Iris Plus Graphics",512
+"30",2024-06-13,"nuf8ms","trenton-slocum","MacOS",4.05,14,36,1000,"M3 Max chip with 30 core integrated gpu",0
+"31",2024-06-13,"ncc9kn","colbyle25","MacOS",1.2,4,16,250,"Intel Iris Plus Graphics 1536 MB",0
+"32",2024-06-13,"dcy2dq",NA,"Windows",1.7,10,16,477,"Intel (R) iRIS(R) Xe Graphics",0
+"33",2024-06-13,"gbz6qn","i-levy","MacOS",3.2,8,8,245,"Apple M1",7
+"34",2024-06-13,"aa7dd","AfnanAbdul","MacOS",2.3,8,32,1000,"Intel UHD Graphics 630 1536 MB",192
+"35",2024-06-13,"yuk7du","cartday8","Windows",1.1,4,8,128,"Intel Iris Plus Graphics",655
+"36",2024-06-13,"uua9gw","lathangregg","MacOS",2.3,8,16,500,"Radeon Pro 560X 4 GB",8
+"37",2024-06-13,"rs7aq","rs7aq","Windows",1.39,10,16,512,"Intel (R) Iris (R) Xe Graphics",0
+"38",2024-06-13,"tjs5nx","Taylor-Skomp","Windows",1.3,10,16,512,"Intel Iris Xe Graphics",10
+"39",2024-06-13,"dgr7pb","Pstone2","Windows",1.5,4,32,2000,"NVIDIA GeForce GTX 1660 Ti with Max-Q Design",1536
+"40",2024-06-13,"bur6yx","muhurto-rahman","Windows",3.2,8,16,474,"NVIDIA GeForce RTX 3050 6GB",2304
+"41",2024-06-13,"yss2zv","courtneyhodge","Windows",2.1,4,16,952,"RTX 4050 GPU",0
+"42",2024-06-13,"jst7ee","jst7ee","Windows",1.8,16,16,952,"AMD Radeon Graphics Processor",0
+"43",2024-06-13,"skk8kc","djl1626","MacOS",2.6,6,16,500,"Intel UHD Graphics 630",0
+"44",2024-06-13,"ak2znr","akaashkamdar","MacOS",2.93,8,8,512,"Apple M2 Built-In 8 Core GPU",8
+"45",2024-06-13,"fmt2tg","richardkuehn","MacOS",3.2,10,16,494,"Apple M1 Pro",0
+"46",2024-06-13,"mdg7wj","BenPelczy","MacOS",3.2,8,8,494,"Apple M1",0
+"47",2024-06-13,"prz3dt","chr1st1n3g30rg3","Windows",180,4,8,212,"Intel(R) UHD Graphics 620",0
+"48",2024-06-13,"qja8kc","bernard-gonzales","Windows",2.3,4,16,952,"NVIDIA GeForce GTX 1050 with Max-Q Design",640
+"49",2024-06-13,"sqr8ap","sqr8ap","MacOS",3.2,8,16,1000,"M1",0
+"50",2024-06-13,"urn8he","kianadane","MacOS",3,3,8,494,"Apple-designed integrated graphics (8â€“76 core)",8
+"51",2024-06-13,"vrd9sd","lukeschneider7","MacOS",698,4,16,512,"Intel Iris Plus Graphics 1536 MB",0
+"52",2024-06-13,"qcp6az","finnmok","Windows",1.5,4,16,239,"Intel(R) Iris(R) Plus Graphics",0
+"53",2024-06-13,"czz7bf","csjapic","Windows",2.9,4,8,475,"3.8",0
+"54",2024-06-13,"dbm4bj","rsfellman","Windows",2.6,6,32,475,"Intel(R) UHD Graphics 630",640
+"55",2024-06-13,"wtc6vz",NA,"Windows",1.99,4,16,475,"Intel(R) UHD Graphics 620",0
+"56",2024-06-13,"unc6kr","hvalenty","Windows",2.4,4,12,458,"Intel(R) Iris(R) Xe Graphics",0
+"57",2024-06-13,"lgs4zj","Lucy-Shichman","MacOS",4.05,8,16,512,"Apple-designed integrated graphics",10
+"58",2024-06-13,"ag6ykz","alandag24","MacOS",3.2,8,8,251,"Apple M1",0
+"59",2024-06-13,"ehe5bn","Zach0411","Windows",1.7,12,16,1000,"Intel Core Ultra 7",12
+"60",2024-06-13,"lgr2sge","learunesha","MacOS",3.49,16,8,245,"Apple-designed integrated graphics (8â€“76 core)",16
+"61",2024-06-13,"jah9kqn","johnhope829","MacOS",1.6,2,16,251,"Intel UHD Graphics 617 1536 MB",0
+"62",2024-06-13,"svw6dn","trivedidn","Windows",2,4,40,280,"NVIDIA GeForce GTX 1050",768
+"63",2024-06-13,"gry6ks","bcastro20","Windows",1.9,4,32,32,"Intel(R) UHD Graphics 620",4
+"64",2024-06-13,"xmc6rp","Coues10624","Windows",1.9,4,16,256,"Intel Integrated HD Graphics 620",4
+"65",2024-06-13,"drz8rt","casscub24","Windows",1.9,4,32,32,"Intel(R) UHD Graphics 620",0
+"66",2024-06-13,"gec2tp","GEMcordelli","Windows",2.3,8,32,471,"NVIDIA T1200",1024
+"67",2024-06-13,"asm2fe","ashley-m","Windows",3.8,16,16,1024,"Intel Arc integrated",0
